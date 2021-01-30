@@ -1,0 +1,84 @@
+body{
+   
+}
+#main
+{
+    background-color: rgb(238, 238, 238);
+    margin: 30px 8px;
+    padding: 18px;
+    border-radius: 1%;
+}
+#title
+{
+    text-align: center;
+    font-weight: 800;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', Arial, sans-serif;
+    color:#493323;
+    word-spacing: 1px;
+    letter-spacing: 1.3px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.title_caption
+{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', Arial, sans-serif;
+    color:#663f3f;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: .7px;
+    word-spacing: 1px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+#image
+{
+    height: 400px;
+    max-width: 100%;
+   display:block;
+   margin-left: auto;
+   margin-right: auto;
+   border-radius: 1%;
+   
+}
+#image-caption
+{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', Arial, sans-serif;
+    color:#663f3f;
+    text-align: center;
+    font-weight: bolder;
+    letter-spacing: .7px;
+    line-height: 30px;
+    word-spacing: 1px;
+}
+#tribute-info
+{
+    padding-top: 10px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', Arial, sans-serif;
+    color:#663f3f;
+    text-align: left;
+    font-weight: bold;
+    line-height: 50px;
+    word-spacing: 1px;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.Tribute_info
+{
+    color:#663f3f;
+    text-align: center;
+    font-size: 2rem;
+}
+.link
+{
+    text-align: center;
+    padding-top: 60px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto';
+    color:#222831;
+
+}
